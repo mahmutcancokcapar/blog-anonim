@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme) => ({
 		alignItems: "center",
 		minHeight: "100vh",
 		padding: "20px",
-    display: "flex",
+		display: "flex",
 	},
 	header: {
 		width: "100%",
